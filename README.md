@@ -7,4 +7,4 @@ I managed building out the backend. We used WAMP, and using the MariaDB framewor
 
 Specifically I correleated all of these attributes with a StudentID (name) and a SchoolID (name). The difficult part was assigning these values meaningfully to show realistic analytics. Writing the actual sql involved taking the csv file I was using and running it through a converter script (because writing sql explicitly is insane). Using the sql code I had "written" on MariaDB I then built out the database. 
 
-We used the laravel PHP framework just like TQ does. My team member generated all 2k+ lines of PHP, and another team member helped implement Node.js for the frontend. Backend is where I am strong, which is why I enjoy working with DevOps in hosted environments.
+We used the laravel PHP framework. One team member generated all 2k+ lines of PHP, and another team member helped implement Node.js for the frontend. Backend is where I am strong, which is why I built out the DB
